@@ -74,7 +74,7 @@ const Header = () => {
             as={RouterLink}
             to="/"
             _hover={{ color: 'gray.500', textDecor: 'none' }}>
-            RST Store
+            My Store
           </Link>
         </Heading>
       </Flex>
