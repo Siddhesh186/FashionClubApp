@@ -1,5 +1,5 @@
 {
-  "name": "rststore",
+  "name": "fashionclub",
   "type": "module",
   "version": "1.0.0",
   "description": "Backend API for rststore",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/rahulat4200/rststore23022022.git"
+    "url": "https://github.com/Siddhesh186/ecomapp.git"
   },
   "author": "Rahul Sharma",
   "license": "UNLICENCED",
